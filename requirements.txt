@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
+google-generativeai
+easyocr
+python-dotenv
